@@ -1,2 +1,3 @@
 # weiboOfActor
-get infomation from actors' weibo
+Get infomation from actors' weibo
+Main codes
