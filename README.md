@@ -52,4 +52,6 @@ Take [刘昊然](https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0) as 
   1.  Get actors' name from _actor_name.csv_, and then enter the search page to get homepage urls of actors' weibo.  
   ![search page](./searchpage.png)  
   This is part of homepage url.  
-  ![homepage url](./getHomepageUrl.png)
+  ![homepage url](./getHomepageUrl.png)  
+  2.  Modify urls that get from step one and turn them into allpage urls.(key point:全部)  
+  
