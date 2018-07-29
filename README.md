@@ -43,5 +43,7 @@ Key skills that I have learned
   2.  >selenium,webdriver  
   3.  >WebDriverWait  
     
-    WebDriverWait(driver, 15, 3).until(lambda browser: browser.find_element_by_class_name("WB_innerwrap"))
+    driver = webdriver.Firefox(executable_path='./geckodriver')
+    WebDriverWait(driver, 15, 3).until(lambda browser: browser.find_element_by_class_name("WB_innerwrap"))  
+    
     Its function is similar to _time.sleep()_ and it finally achieves dynamic glide.
