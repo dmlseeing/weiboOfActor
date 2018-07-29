@@ -10,8 +10,8 @@ Get basic information from actors' weibo
     * **slowdown()**  
       Glide function, to achieve dynamic glide and get data  
     * **get_totalinfo_of_firstpage()**  
-      Get total original weibo and time of firstpage and generate files named time_weibo.txt  
+      Get total original weibo and time of firstpage and generate files named _time_weibo.txt_  
     * **get_basicinfo()**  
-      Get relevant information from users' information pages and generate files named basic_infomation.txt  
+      Get relevant information from users' information pages and generate files named _basic_infomation.txt_  
     * **get_totalnumof_forward_like()**  
-      Get total numbers of forwards and likes of firstpage
+      Get total numbers of forwards and likes of firstpage and generate a file named _totalNumOfForward_Like.txt_ 
