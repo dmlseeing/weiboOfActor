@@ -42,4 +42,5 @@ Key skills that I have learned
   1.  >json,csv    
   2.  >selenium,webdriver  
   3.  >WebDriverWait  
+    
   Its function is similar to _time.sleep()_ and it finally achieves dynamic glide.
