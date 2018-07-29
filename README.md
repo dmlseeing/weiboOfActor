@@ -54,4 +54,5 @@ Take [刘昊然](https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0) as 
   This is part of homepage url.  
   ![homepage url](./getHomepageUrl.png)  
   2.  Modify urls that get from step one and turn them into allpage urls.(key point:全部)  
+  ![informationOfActor_Weibo](./informationOfActor_Weibo.png)  
   
