@@ -59,4 +59,5 @@ Take [刘昊然](https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0) as 
     * Get total original weibo and time of firstpage from the right part.  
     * Get total numbers of forwards and likes of firstpage from the right part.  
   3.  Get urls of users' information page and enter the page to get relevant information of actors.(key point:查看更多)  
-  ![viewmore](./viewmore.png) 
+  ![viewmore](./viewmore.png)   ![relevantInformation](./relevantInformation.png)  
+  
