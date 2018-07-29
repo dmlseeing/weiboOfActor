@@ -50,4 +50,4 @@ Key skills that I have learned
 ## **Sample**  
 Take [刘昊然](https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0) as an example  
   1.  Get actors' name from _actor_name.csv_, and then enter the search page to get homepage urls of actors' weibo.  
-  ![search page](./刘昊然微博搜索图片.png)
+  ![search page](./searchpage.png.png)
