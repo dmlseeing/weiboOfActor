@@ -16,4 +16,8 @@ Get basic information from actors' weibo
     * **get_totalnumof_forward_like()**  
       Get total numbers of forwards and likes of firstpage and generate a file named _totalNumOfForward_Like.txt_  
   * **actor_name.csv**  
-    The list of actors' name
+    The list of actors' name  
+  * **basic_url.txt**  
+    The urls of users' information page
+  * **elements_withoutFindingOut.txt**  
+    The list of actors' name without weibo
