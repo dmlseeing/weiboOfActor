@@ -44,5 +44,8 @@ Key skills that I have learned
   3.  >WebDriverWait  
     
     driver = webdriver.Firefox(executable_path='./geckodriver')
-    # Its function is similar to _time.sleep()_ and it finally achieves dynamic glide.
+    # Its function is similar to time.sleep() and it finally achieves dynamic glide.
     WebDriverWait(driver, 15, 3).until(lambda browser: browser.find_element_by_class_name("WB_innerwrap"))  
+    
+## **Sample**  
+Take 赵丽颖 as an example
