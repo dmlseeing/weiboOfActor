@@ -26,4 +26,5 @@ Get basic information from actors' weibo
 ## **Operating environment**  
 Based on **python3.5** and **selenium**, first need to install：  
   1.  selenium  
-  2.  
+  2.  webdriver  
+  3.  
