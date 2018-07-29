@@ -55,4 +55,6 @@ Take [刘昊然](https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0) as 
   ![homepage url](./getHomepageUrl.png)  
   2.  Modify urls that get from step one and turn them into allpage urls.(key point:全部)  
   ![informationOfActor_Weibo](./informationOfActor_Weibo.png)  
-    * Get numbers of follows, weibo and fans from the left part.
+    * Get numbers of follows, weibo and fans from the left part.  
+    * Get total original weibo and time of firstpage from the right part.  
+    * Get total numbers of forwards and likes of firstpage from the right part.
