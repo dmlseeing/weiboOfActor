@@ -48,4 +48,4 @@ Key skills that I have learned
     WebDriverWait(driver, 15, 3).until(lambda browser: browser.find_element_by_class_name("WB_innerwrap"))  
     
 ## **Sample**  
-Take 赵丽颖 as an example
+Take [刘昊然][https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0] as an example
