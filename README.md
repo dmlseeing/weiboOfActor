@@ -20,4 +20,6 @@ Get basic information from actors' weibo
   * **basic_url.txt**  
     The urls of users' information page
   * **elements_withoutFindingOut.txt**  
-    The list of actors' name without weibo
+    The list of actors' name without weibo  
+  * **data1~data5**  
+    Datas of actors' weibo which contain three files, _time_weibo.txt, three_types_num.json, basic_infomation.txt_
