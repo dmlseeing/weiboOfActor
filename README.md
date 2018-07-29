@@ -35,6 +35,7 @@ Based on **python3.5** and **selenium**, first need to import：
 ## **Operation instructions**  
 |create folder|get_actorWeiboInfo.py|  
 |:-|:-|  
-|Create a new void folder named data in current folder|Open _actor_name.csv_ to get actors' name and run the code to crawl information from weibo  
+|Create a new void folder named data in the current folder|Open _actor_name.csv_ to get actors' name and run the code to crawl information from weibo  
 
 ## **Bullet points**  
+Key skills that I have learned  
