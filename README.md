@@ -2,6 +2,14 @@
 Get basic information from actors' weibo  
   
 ## **Main codes**  
+  * **actor_name.csv**  
+    The list of actors' name  
+  * **basic_url.txt**  
+    The urls of users' information page
+  * **elements_withoutFindingOut.txt**  
+    The list of actors' name without weibo  
+  * **data1~data5**  
+    Datas of actors' weibo which contain three files, _time_weibo.txt, three_types_num.json, basic_infomation.txt_
   * **get_actorWeiboInfo.py**  
     * **get_actorurl()**  
       Get homepage urls of actors' weibo and generate a file named _actor_url.txt_  
@@ -15,11 +23,3 @@ Get basic information from actors' weibo
       Get relevant information from users' information page and generate files named _basic_infomation.txt_  
     * **get_totalnumof_forward_like()**  
       Get total numbers of forwards and likes of firstpage and generate a file named _totalNumOfForward_Like.txt_  
-  * **actor_name.csv**  
-    The list of actors' name  
-  * **basic_url.txt**  
-    The urls of users' information page
-  * **elements_withoutFindingOut.txt**  
-    The list of actors' name without weibo  
-  * **data1~data5**  
-    Datas of actors' weibo which contain three files, _time_weibo.txt, three_types_num.json, basic_infomation.txt_
