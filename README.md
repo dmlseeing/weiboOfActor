@@ -62,6 +62,8 @@ Take [刘昊然](https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0) as 
   ![viewmore](./viewmore.png)  
   ![relevantInformation](./relevantInformation.png)  
   
-There are three kinds of urls:
-* searchpage: http://s.weibo.com/weibo/_刘昊然_
-  
+There are four kinds of urls:
+* searchpage: http://s.weibo.com/weibo/刘昊然  
+* part of homepage: //weibo.com/u/2870450862  
+* allpage: https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0  
+* users' information page: https://weibo.com/p/1003062870450862/info?mod=pedit_more
