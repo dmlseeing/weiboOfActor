@@ -25,6 +25,8 @@ Get basic information from actors' weibo
       Get total numbers of forwards and likes of firstpage and generate a file named _totalNumOfForward_Like.txt_  
 ## **Operating environment**  
 Based on **python3.5** and **selenium**, first need to import：  
-  **1.**  selenium  
-  **2.**  webdriver  
-  **3.**  WebDriverWait
+  1.  >selenium  
+  2.  >webdriver  
+  3.  >WebDriverWait  
+  4.  >json  
+  4.  >time
