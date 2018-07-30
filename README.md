@@ -50,17 +50,17 @@ Key skills that I have learned
 ## **Sample**  
 Take [刘昊然](https://weibo.com/u/2870450862?profile_ftype=1&is_all=1#_0) as an example  
   1.  Get actors' name from _actor_name.csv_, and then enter the search page to get homepage urls of actors' weibo.  
-  ![search page](.photo/searchpage.png)  
+  ![search page](./photo/searchpage.png)  
   This is part of homepage url.  
-  ![homepage url](.photo/getHomepageUrl.png)  
+  ![homepage url](./photo/getHomepageUrl.png)  
   2.  Modify urls that get from step one and turn them into allpage urls.(key point:全部)  
-  ![informationOfActor_Weibo](.photo/informationOfActor_Weibo.png)  
+  ![informationOfActor_Weibo](./photo/informationOfActor_Weibo.png)  
     * Get numbers of follows, weibo and fans from the left part.  
     * Get total original weibo and time of firstpage from the right part.  
     * Get total numbers of forwards and likes of firstpage from the right part.  
   3.  Get urls of users' information page and enter the page to get relevant information of actors.(key point:查看更多)  
-  ![viewmore](.photo/viewmore.png)  
-  ![relevantInformation](.photo/relevantInformation.png)  
+  ![viewmore](./photo/viewmore.png)  
+  ![relevantInformation](./photo/relevantInformation.png)  
   
 There are four kinds of urls:
 * searchpage: http://s.weibo.com/weibo/刘昊然  
