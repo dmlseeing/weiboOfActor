@@ -159,13 +159,13 @@ def get_totalnumof_forward_like():
                 file.write('\n')
 
             file1 = open('./runForData/' + name + '_data.txt', 'w')
-            i = 0
+            linenumber = 0
             with open('./runForData/' + name + '.txt', 'r')as f1:
                 for line1 in f1.readlines():
                     file1.write(line1.strip())
-                    i = i + 1
-                    if (i == 4):
-                        i = 0
+                    linenumber = linenumber + 1
+                    if (linenumber == 4):
+                        linenumber = 0
                         file1.write('\n')
 
             numOfForward = 0
